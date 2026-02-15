@@ -40,12 +40,3 @@ Run the application:
 
 streamlit run app.py  
 
----
-
-## 🧪 Sample Prompt
-
-Plan a 3-day trip to Tokyo in May
-
----
-
-Developed for Lab 12B – Agent Development using MCP.
